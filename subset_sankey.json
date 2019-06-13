@@ -1,4 +1,4 @@
-{
+   {
         "name": "Enzymatic inactivation",
         "children": [
             {
@@ -58,6 +58,32 @@
                         "size": 91
                     }
                 ]
+            },
+    {
+        "name": "Enzymatic modification",
+        "children": [
+            {
+                "name": "Aminoglycoside",
+                "children": [
+                    {
+                        "name": "aac(6')-Im",
+                        "size": 1
+                    },
+                    {
+                        "name": "ant(6)-Ia",
+                        "size": 27
+                    },
+                    {
+                        "name": "ant(6)-Ib",
+                        "size": 115
+                    },
+                    {
+                        "name": "aph(3')-III",
+                        "size": 54
+                    }
+                ]
             }
-        ]
+            ]
+    }
+   ]
    }
