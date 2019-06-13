@@ -1,0 +1,63 @@
+{
+        "name": "Enzymatic inactivation",
+        "children": [
+            {
+                "name": "Beta-lactam",
+                "children": [
+                    {
+                        "name": "blaTEM-209",
+                        "size": 1
+                    }
+                ]
+            },
+            {
+                "name": "Lincosamide",
+                "children": [
+                    {
+                        "name": "lnu(B)",
+                        "size": 1
+                    },
+                    {
+                        "name": "lnu(C)",
+                        "size": 333
+                    }
+                ]
+            },
+            {
+                "name": "Macrolide",
+                "children": [
+                    {
+                        "name": "mph(B)",
+                        "size": 1
+                    }
+                ]
+            },
+            {
+                "name": "Phenicol",
+                "children": [
+                    {
+                        "name": "cat(pC194)",
+                        "size": 1
+                    }
+                ]
+            },
+            {
+                "name": "Streptogramin A",
+                "children": [
+                    {
+                        "name": "vat(E)",
+                        "size": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tetracycline",
+                "children": [
+                    {
+                        "name": "tet(X)",
+                        "size": 91
+                    }
+                ]
+            }
+        ]
+   }
