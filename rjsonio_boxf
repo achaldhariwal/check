@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Enzymatic inactivation",
+        "children": [
+            {
+                "name": "Beta-lactam",
+                "children": {
+                    "name": [
+                        "blaTEM-209"
+                    ],
+                    "size": [
+                        1
+                    ]
+                }
+            },
+            {
+                "name": "Lincosamide",
+                "children": {
+                    "name": [
+                        "lnu(B)",
+                        "lnu(C)"
+                    ],
+                    "size": [
+                        1,
+                        333
+                    ]
+                }
+            },
+            {
+                "name": "Macrolide",
+                "children": {
+                    "name": [
+                        "mph(B)"
+                    ],
+                    "size": [
+                        1
+                    ]
+                }
+            },
+            {
+                "name": "Phenicol",
+                "children": {
+                    "name": [
+                        "cat(pC194)"
+                    ],
+                    "size": [
+                        1
+                    ]
+                }
+            },
+            {
+                "name": "Streptogramin A",
+                "children": {
+                    "name": [
+                        "vat(E)"
+                    ],
+                    "size": [
+                        1
+                    ]
+                }
+            },
+            {
+                "name": "Tetracycline",
+                "children": {
+                    "name": [
+                        "tet(X)"
+                    ],
+                    "size": [
+                        91
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Enzymatic modification",
+        "children": [
+            {
+                "name": "Aminoglycoside",
+                "children": {
+                    "name": [
+                        "aac(6')-Im",
+                        "ant(6)-Ia",
+                        "ant(6)-Ib",
+                        "aph(3')-III"
+                    ],
+                    "size": [
+                        1,
+                        27,
+                        115,
+                        54
+                    ]
+                }
+            },
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "name": "Increased efflux",
+        "children": [
+            {
+                "name": "Quinolone",
+                "children": {
+                    "name": [
+                        "oqxB"
+                    ],
+                    "size": [
+                        1
+                    ]
+                }
+            },
+            {
+                "name": "Tetracycline",
+                "children": {
+                    "name": [
+                        "tet(40)",
+                        "tet(L)",
+                        "tetA(P)"
+                    ],
+                    "size": [
+                        233,
+                        11,
+                        6
+                    ]
+                }
+            },
+            null,
+            null
+        ]
+    },
+    {
+        "name": "Target modification",
+        "children": [
+            {
+                "name": "MLS - Macrolide-Lincosamide-StreptograminB",
+                "children": {
+                    "name": [
+                        "erm(B)",
+                        "erm(F)",
+                        "erm(G)",
+                        "erm(Q)"
+                    ],
+                    "size": [
+                        113,
+                        164,
+                        189,
+                        3
+                    ]
+                }
+            },
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "name": "Target protection",
+        "children": [
+            {
+                "name": "MS-Macrolide-Streptogramin B",
+                "children": {
+                    "name": [
+                        "msr(D)"
+                    ],
+                    "size": [
+                        426
+                    ]
+                }
+            },
+            {
+                "name": "Tetracycline",
+                "children": {
+                    "name": [
+                        "tet(32)",
+                        "tet(44)",
+                        "tet(M)",
+                        "tet(O)",
+                        "tet(Q)",
+                        "tet(W)"
+                    ],
+                    "size": [
+                        118,
+                        944,
+                        17,
+                        1678,
+                        9295,
+                        1355
+                    ]
+                }
+            },
+            null,
+            null
+        ]
+    },
+    {
+        "name": "Unassigned",
+        "children": [
+            {
+                "name": "Folate pathway antagonist",
+                "children": {
+                    "name": [
+                        "sul1"
+                    ],
+                    "size": [
+                        3
+                    ]
+                }
+            },
+            null,
+            null,
+            null
+        ]
+    }
+]
