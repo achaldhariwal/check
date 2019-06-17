@@ -1,352 +1,411 @@
 {
-    "name": [
-        "Data"
-    ],
+    "name": "MyData",
     "children": [
         {
-            "name": [
-                "Enzymatic inactivation"
-            ],
+            "name": "Enzymatic inactivation",
             "children": [
                 {
-                    "name": [
-                        "Beta-lactam"
-                    ],
+                    "name": "Beta-lactam",
                     "children": [
                         {
-                            "name": [
-                                "blaTEM-209"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "blaTEM-209",
+                            "size": 1
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Lincosamide"
-                    ],
+                    "name": "Lincosamide",
                     "children": [
                         {
-                            "name": [
-                                "lnu(B)"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "lnu(B)",
+                            "size": 1
                         },
                         {
-                            "name": [
-                                "lnu(C)"
-                            ],
-                            "value": [
-                                333
-                            ]
+                            "name": "lnu(C)",
+                            "size": 333
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Macrolide"
-                    ],
+                    "name": "Macrolide",
                     "children": [
                         {
-                            "name": [
-                                "mph(B)"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "mph(B)",
+                            "size": 1
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Phenicol"
-                    ],
+                    "name": "Phenicol",
                     "children": [
                         {
-                            "name": [
-                                "cat(pC194)"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "cat(pC194)",
+                            "size": 1
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Streptogramin A"
-                    ],
+                    "name": "Streptogramin A",
                     "children": [
                         {
-                            "name": [
-                                "vat(E)"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "vat(E)",
+                            "size": 1
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Tetracycline"
-                    ],
+                    "name": "Tetracycline",
                     "children": [
                         {
-                            "name": [
-                                "tet(X)"
-                            ],
-                            "value": [
-                                91
-                            ]
+                            "name": "tet(X)",
+                            "size": 91
                         }
                     ]
                 }
             ]
         },
         {
-            "name": [
-                "Enzymatic modification"
-            ],
+            "name": "Enzymatic modification",
             "children": [
                 {
-                    "name": [
-                        "Aminoglycoside"
-                    ],
+                    "name": "Aminoglycoside",
                     "children": [
                         {
-                            "name": [
-                                "aac(6')-Im"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "aac(6')-Im",
+                            "size": 1
                         },
                         {
-                            "name": [
-                                "ant(6)-Ia"
-                            ],
-                            "value": [
-                                27
-                            ]
+                            "name": "ant(6)-Ia",
+                            "size": 27
                         },
                         {
-                            "name": [
-                                "ant(6)-Ib"
-                            ],
-                            "value": [
-                                115
-                            ]
+                            "name": "ant(6)-Ib",
+                            "size": 115
                         },
                         {
-                            "name": [
-                                "aph(3')-III"
-                            ],
-                            "value": [
-                                54
-                            ]
+                            "name": "aph(3')-III",
+                            "size": 54
                         }
                     ]
                 }
             ]
         },
         {
-            "name": [
-                "Increased efflux"
-            ],
+            "name": "Increased efflux",
             "children": [
                 {
-                    "name": [
-                        "Quinolone"
-                    ],
+                    "name": "Quinolone",
                     "children": [
                         {
-                            "name": [
-                                "oqxB"
-                            ],
-                            "value": [
-                                1
-                            ]
+                            "name": "oqxB",
+                            "size": 1
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Tetracycline"
-                    ],
+                    "name": "Tetracycline",
                     "children": [
                         {
-                            "name": [
-                                "tet(40)"
-                            ],
-                            "value": [
-                                233
-                            ]
+                            "name": "tet(40)",
+                            "size": 233
                         },
                         {
-                            "name": [
-                                "tet(L)"
-                            ],
-                            "value": [
-                                11
-                            ]
+                            "name": "tet(L)",
+                            "size": 11
                         },
                         {
-                            "name": [
-                                "tetA(P)"
-                            ],
-                            "value": [
-                                6
-                            ]
+                            "name": "tetA(P)",
+                            "size": 6
                         }
                     ]
                 }
             ]
         },
         {
-            "name": [
-                "Target modification"
-            ],
+            "name": "Target modification",
             "children": [
                 {
-                    "name": [
-                        "MLS - Macrolide-Lincosamide-StreptograminB"
-                    ],
+                    "name": "MLS - Macrolide-Lincosamide-StreptograminB",
                     "children": [
                         {
-                            "name": [
-                                "erm(B)"
-                            ],
-                            "value": [
-                                113
-                            ]
+                            "name": "erm(B)",
+                            "size": 113
                         },
                         {
-                            "name": [
-                                "erm(F)"
-                            ],
-                            "value": [
-                                164
-                            ]
+                            "name": "erm(F)",
+                            "size": 164
                         },
                         {
-                            "name": [
-                                "erm(G)"
-                            ],
-                            "value": [
-                                189
-                            ]
+                            "name": "erm(G)",
+                            "size": 189
                         },
                         {
-                            "name": [
-                                "erm(Q)"
-                            ],
-                            "value": [
-                                3
-                            ]
+                            "name": "erm(Q)",
+                            "size": 3
                         }
                     ]
                 }
             ]
         },
         {
-            "name": [
-                "Target protection"
-            ],
+            "name": "Target protection",
             "children": [
                 {
-                    "name": [
-                        "MS-Macrolide-Streptogramin B"
-                    ],
+                    "name": "MS-Macrolide-Streptogramin B",
                     "children": [
                         {
-                            "name": [
-                                "msr(D)"
-                            ],
-                            "value": [
-                                426
-                            ]
+                            "name": "msr(D)",
+                            "size": 426
                         }
                     ]
                 },
                 {
-                    "name": [
-                        "Tetracycline"
-                    ],
+                    "name": "Tetracycline",
                     "children": [
                         {
-                            "name": [
-                                "tet(32)"
-                            ],
-                            "value": [
-                                118
-                            ]
+                            "name": "tet(32)",
+                            "size": 118
                         },
                         {
-                            "name": [
-                                "tet(44)"
-                            ],
-                            "value": [
-                                944
-                            ]
+                            "name": "tet(44)",
+                            "size": 944
                         },
                         {
-                            "name": [
-                                "tet(M)"
-                            ],
-                            "value": [
-                                17
-                            ]
+                            "name": "tet(M)",
+                            "size": 17
                         },
                         {
-                            "name": [
-                                "tet(O)"
-                            ],
-                            "value": [
-                                1678
-                            ]
+                            "name": "tet(O)",
+                            "size": 1678
+                        },
+                  {
+    "name": "MyData",
+    "children": [
+        {
+            "name": "Enzymatic inactivation",
+            "children": [
+                {
+                    "name": "Beta-lactam",
+                    "children": [
+                        {
+                            "name": "blaTEM-209",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Lincosamide",
+                    "children": [
+                        {
+                            "name": "lnu(B)",
+                            "value": 1
                         },
                         {
-                            "name": [
-                                "tet(Q)"
-                            ],
-                            "value": [
-                                9295
-                            ]
-                        },
+                            "name": "lnu(C)",
+                            "value": 333
+                        }
+                    ]
+                },
+                {
+                    "name": "Macrolide",
+                    "children": [
                         {
-                            "name": [
-                                "tet(W)"
-                            ],
-                            "value": [
-                                1355
-                            ]
+                            "name": "mph(B)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Phenicol",
+                    "children": [
+                        {
+                            "name": "cat(pC194)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Streptogramin A",
+                    "children": [
+                        {
+                            "name": "vat(E)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Tetracycline",
+                    "children": [
+                        {
+                            "name": "tet(X)",
+                            "value": 91
                         }
                     ]
                 }
             ]
         },
         {
-            "name": [
-                "Unassigned"
-            ],
+            "name": "Enzymatic modification",
             "children": [
                 {
-                    "name": [
-                        "Folate pathway antagonist"
-                    ],
+                    "name": "Aminoglycoside",
                     "children": [
                         {
-                            "name": [
-                                "sul1"
-                            ],
-                            "value": [
-                                3
-                            ]
+                            "name": "aac(6')-Im",
+                            "value": 1
+                        },
+                        {
+                            "name": "ant(6)-Ia",
+                            "value": 27
+                        },
+                        {
+                            "name": "ant(6)-Ib",
+                            "value": 115
+                        },
+                        {
+                            "name": "aph(3')-III",
+                            "value": 54
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Increased efflux",
+            "children": [
+                {
+                    "name": "Quinolone",
+                    "children": [
+                        {
+                            "name": "oqxB",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Tetracycline",
+                    "children": [
+                        {
+                            "name": "tet(40)",
+                            "value": 233
+                        },
+                        {
+                            "name": "tet(L)",
+                            "value": 11
+                        },
+                        {
+                            "name": "tetA(P)",
+                            "value": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Target modification",
+            "children": [
+                {
+                    "name": "MLS - Macrolide-Lincosamide-StreptograminB",
+                    "children": [
+                        {
+                            "name": "erm(B)",
+                            "value": 113
+                        },
+                        {
+                            "name": "erm(F)",
+                            "value": 164
+                        },
+                        {
+                            "name": "erm(G)",
+                            "value": 189
+                        },
+                        {
+                            "name": "erm(Q)",
+                            "value": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Target protection",
+            "children": [
+                {
+                    "name": "MS-Macrolide-Streptogramin B",
+                    "children": [
+                        {
+                            "name": "msr(D)",
+                            "value": 426
+                        }
+                    ]
+                },
+                {
+                    "name": "Tetracycline",
+                    "children": [
+                        {
+                            "name": "tet(32)",
+                            "value": 118
+                        },
+                        {
+                            "name": "tet(44)",
+                            "value": 944
+                        },
+                        {
+                            "name": "tet(M)",
+                            "value": 17
+                        },
+                        {
+                            "name": "tet(O)",
+                            "value": 1678
+                        },
+                        {
+                            "name": "tet(Q)",
+                            "value": 9295
+                        },
+                        {
+                            "name": "tet(W)",
+                            "value": 1355
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Unassigned",
+            "children": [
+                {
+                    "name": "Folate pathway antagonist",
+                    "children": [
+                        {
+                            "name": "sul1",
+                            "value": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}      {
+                            "name": "tet(Q)",
+                            "size": 9295
+                        },
+                        {
+                            "name": "tet(W)",
+                            "size": 1355
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Unassigned",
+            "children": [
+                {
+                    "name": "Folate pathway antagonist",
+                    "children": [
+                        {
+                            "name": "sul1",
+                            "size": 3
                         }
                     ]
                 }
